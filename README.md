@@ -9,3 +9,4 @@
 ross-mclain-21/ross-mclain-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![CodeQL](https://github.com/ross-mclain-21/ross-mclain-21/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/ross-mclain-21/ross-mclain-21/actions/workflows/codeql-analysis.yml)
